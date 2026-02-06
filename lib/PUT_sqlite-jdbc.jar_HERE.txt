@@ -1,0 +1,1 @@
+Download sqlite-jdbc jar and rename it to sqlite-jdbc.jar, then place it in this folder.
