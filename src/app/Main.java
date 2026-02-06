@@ -6,7 +6,7 @@ import javafx.stage.Stage;
 import ui.HomeView;
 
 public class Main extends Application {
-
+//RUN THE PROGRAM
     @Override
     public void start(Stage stage) {
         HomeView home = new HomeView(stage);
